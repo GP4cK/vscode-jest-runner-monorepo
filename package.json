@@ -4,12 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest -c project-1/jest.config.js"
   },
   "keywords": [],
   "author": "Gautier Bayzelon",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.3.1"
-  }
+  },
+  "workspaces": [
+    "project-1"
+  ]
 }

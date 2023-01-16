@@ -1,0 +1,22 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GP4cK/vscode-jest-runner-monorepo.git"
+  },
+  "author": "Gautier Bayzelon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GP4cK/vscode-jest-runner-monorepo/issues"
+  },
+  "homepage": "https://github.com/GP4cK/vscode-jest-runner-monorepo#readme"
+}
