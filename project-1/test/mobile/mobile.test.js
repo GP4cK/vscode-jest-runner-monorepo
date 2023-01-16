@@ -1,3 +1,3 @@
-it('should pass', () => {
-  expect(1).toBe(1);
+it('WEB() should return false', () => {
+  expect(global.WEB()).toBe(false);
 });
