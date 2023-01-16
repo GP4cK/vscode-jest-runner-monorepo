@@ -1,0 +1,1 @@
+Imagine there is the same kind of structure as in `project-1`.
